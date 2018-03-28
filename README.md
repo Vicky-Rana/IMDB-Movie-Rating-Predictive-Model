@@ -15,5 +15,5 @@ It is so hard to find the rating of movie before it is released in the theatres.
 
 More Information can be found inside the ppt file uploaded in the repository.
 
-We have used R Studio for building a predictive model.
+I have used R Studio for building a predictive model.
 
